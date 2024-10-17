@@ -1,8 +1,7 @@
 ## Krew:
-- Cybersecurity specialist;
 - Computer Scientist;
 - Python programmer;
-- Mother;
+- Cybersecurity specialist;
 
 ## Stats:
 [![KrewPy](https://github-readme-stats.vercel.app/api?username=KrewPy&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
