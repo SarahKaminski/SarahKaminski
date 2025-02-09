@@ -1,4 +1,4 @@
-## 👱‍♀️ Krew:
+## 👱‍♀️ Krew: 
 - Computer Scientist;
 - Python programmer;
 - Cybersecurity specialist;
